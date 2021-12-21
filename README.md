@@ -22,7 +22,7 @@ break;
 case 4:opr="div";
 System.out.println(a/b);
 break;
-default:
+default :
 System.out.println("invalid")
 break;
 }
